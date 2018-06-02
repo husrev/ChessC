@@ -1,0 +1,72 @@
+ P : a2 -> a4
+ p : g7 -> g6
+ P : a4 -> a5
+ p : h7 -> h5
+ P : a5 -> a6
+ p : b7 -> b5
+ R : a1 -> a2
+ p : h5 -> h4
+ R : a2 -> a3
+ p : g6 -> g5
+ R : a3 -> a4
+ p : b5 -> a4
+ P : h2 -> h3
+ p : f7 -> f5
+ P : g2 -> g3
+ p : h4 -> g3
+ P : b2 -> b3
+ p : g3 -> f2
+ K : e1 -> f2
+ p : c7 -> c6
+ P : b3 -> b4
+ q : d8 -> b6
+ K : f2 -> e1
+ r : h8 -> h4
+ H : b1 -> a3
+ p : e7 -> e5
+ P : b4 -> b5
+ p : e5 -> e4
+ P : e2 -> e3
+ b : f8 -> a3
+ Q : d1 -> e2
+ b : a3 -> c1
+ Q : e2 -> f2
+ p : c6 -> b5
+ K : e1 -> d1
+ b : c1 -> a3
+ Q : f2 -> f5
+ h : g8 -> h6
+ Q : f5 -> g5
+ b : a3 -> e7
+ Q : g5 -> g7
+ p : d7 -> d5
+ B : f1 -> g2
+ p : b5 -> b4
+ P : d2 -> d3
+ q : b6 -> e3
+ P : d3 -> e4
+ p : d5 -> e4
+ H : g1 -> e2
+ p : b4 -> b3
+ Q : g7 -> e5
+ b : c8 -> a6
+ Q : e5 -> d5
+ q : e3 -> e2
+ K : d1 -> c1
+ q : e2 -> c2
+
+ FINAL LOOK
+
+    Active Pieces      Dead Pieces 
+
+ 8  r h     k          - - - - - - - - 
+ 7  p       b          p p p p - - - - 
+ 6  b             h                    
+ 5        Q                            
+ 4  p       p     r                    
+ 3    p           P                    
+ 2      q       B      P P P P P P P - 
+ 1      K         R    R H B - - - H - 
+
+    A B C D E F G H 
+ *** AI WINS ***

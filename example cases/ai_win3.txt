@@ -1,0 +1,101 @@
+ P : a2 -> a3
+ p : g7 -> g6
+ P : a3 -> a4
+ p : h7 -> h5
+ P : h2 -> h4
+ p : f7 -> f5
+ P : d2 -> d3
+ p : e7 -> e5
+ B : c1 -> g5
+ b : f8 -> b4
+ P : c2 -> c3
+ b : b4 -> e7
+ P : d3 -> d4
+ b : e7 -> g5
+ P : a4 -> a5
+ b : g5 -> h4
+ P : d4 -> e5
+ p : c7 -> c6
+ R : h1 -> h4
+ q : d8 -> h4
+ P : a5 -> a6
+ q : h4 -> h1
+ Q : d1 -> d6
+ r : h8 -> h6
+ P : g2 -> g4
+ p : h5 -> g4
+ H : b1 -> a3
+ p : g4 -> g3
+ P : f2 -> g3
+ p : g6 -> g5
+ Q : d6 -> c7
+ h : g8 -> e7
+ R : a1 -> d1
+ p : g5 -> g4
+ R : d1 -> d6
+ r : h6 -> d6
+ Q : c7 -> d6
+ p : f5 -> f4
+ P : g3 -> f4
+ p : g4 -> g3
+ P : e2 -> e3
+ p : g3 -> g2
+ B : f1 -> e2
+ p : b7 -> b5
+ P : c3 -> c4
+ p : c6 -> c5
+ P : c4 -> b5
+ q : h1 -> g1
+ K : e1 -> d2
+ q : g1 -> h2
+ P : f4 -> f5
+ p : g2 -> g1
+ P : e5 -> e6
+ q : h2 -> d6
+ K : d2 -> c1
+ q : d6 -> c7
+ P : f5 -> f6
+ h : e7 -> f5
+ B : e2 -> h5
+ k : e8 -> f8
+ P : e6 -> e7
+ k : f8 -> g8
+ H : a3 -> c4
+ p : d7 -> d5
+ H : c4 -> e5
+ q : c7 -> e5
+ P : f6 -> f7
+ k : g8 -> h7
+ P : b2 -> b4
+ h : f5 -> h4
+ P : b4 -> c5
+ b : c8 -> h3
+ K : c1 -> d2
+ q : e5 -> h5
+ P : b5 -> b6
+ p : a7 -> b6
+ P : c5 -> b6
+ b : h3 -> c8
+ P : a6 -> a7
+ h : h4 -> f3
+ K : d2 -> e2
+ b : c8 -> a6
+ K : e2 -> f2
+ q : h5 -> h2
+ K : f2 -> f3
+ b : a6 -> e2
+ *** AI WINS ***
+ FINAL LOOK
+
+    Active Pieces      Dead Pieces 
+
+ 8  r h                r h b - - - - - 
+ 7  P       P P   k    p p p p p p - - 
+ 6    P                                
+ 5        p                            
+ 4                                     
+ 3          P K                        
+ 2          b     q    P P P - - - - - 
+ 1              p      R H B - Q B H R 
+
+    A B C D E F G H 
